@@ -19,3 +19,9 @@ _This text is italicised_
   - First item
   - ***Second item***
   - **The _THIRD_ item**
+
+<br>
+<br>
+  You can also use HTML code to make it look really cool, above this line are line breaks!
+  
+  > This is a quote of some text, who knows where it is from :D
